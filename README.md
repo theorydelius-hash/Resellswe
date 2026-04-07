@@ -134,8 +134,8 @@ header { background:white; position:sticky; top:0; z-index:100; box-shadow:0 2px
 <h2>Kontakt & Sociala medier</h2>
 <p>Mail: info@golfresell.se</p>
 <p>Telefon: 0701234567</p>
-<p>Instagram: <a href="https://www.instagram.com/golfresell" target="_blank" style="color:white;">@golfresell</a></p>
-<p>TikTok: <a href="https://www.tiktok.com/@golfresell" target="_blank" style="color:white;">@golfresell</a></p>
+<p>Instagram: <a href=tiktok.com/@golfresellsweden target="_blank" style="color:white;">@golfresell</a></p>
+<p>TikTok: <a href=tiktok.com/@golfresellswedentarget="_blank" style="color:white;">@golfresell</a></p>
 <p>Vinted: <a href="https://www.vinted.se/member/267730130-golfresellsweden" target="_blank" style="color:white;">@GolfResellSweden</a></p>
 </section>
 
